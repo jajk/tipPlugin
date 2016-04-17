@@ -1,0 +1,22 @@
+.tip {
+	overflow:hidden;
+}
+.tipHead {
+	height:77px;
+	width:16px;
+	background:url(../img/localizerLeft.gif) no-repeat;
+	float:left;
+}
+.tipBody {
+	height:77px;
+	background:url(../img/localizerMid.gif) repeat-x;
+	float:left;
+	word-wrap:break-word;
+	word-break:break-all;
+}
+.tipTail {
+	height:77px;
+	width:10px;
+	background:url(../img/localizerRight.gif) no-repeat;
+	float:left;
+}
