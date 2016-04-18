@@ -18,8 +18,8 @@
 		 */
 		 var Draw = function(){
 			 var children = '<div class="tipHead"></div>'
-						   +'<div class="tipBody">'+p.content+'</div>'
-						   +'<div class="tipTail"></div>';
+				       +'<div class="tipBody">'+p.content+'</div>'
+				       +'<div class="tipTail"></div>';
 			 //将children加入到提示框中
 			 _$ths.append( children );
 			 //动态设置提示框的样式和内容区域的宽度
